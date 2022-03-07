@@ -40,7 +40,7 @@ TBD
   * Import the .zip
 
 **2. Using the github files**
-  * Download the repo using the <img src="https://i.imgur.com/mkoF15A.png" alt="Code"> button on the top right
+  * Download the repo using the <img src="https://i.imgur.com/a2zXrzV.png" alt="Code" width="60" height="30"> button on the top right
   * Extract the mods and configs to your minecraft folder
 
 ## Roadmap
