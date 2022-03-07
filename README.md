@@ -1,1 +1,2 @@
-Equilibria 2.0 : The Chyzening
+#Equilibria 2.0 : The Chyzening
+A kitchen sking modpack
