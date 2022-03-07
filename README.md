@@ -35,9 +35,9 @@ TBD
 ## Usage
 
 1. Installing the modpack using releases (reccommended)
-  -Download the lastest release
-  -Create a new profile in your prefered launcher
-  -Import the .zip
+  * Download the lastest release
+  * Create a new profile in your prefered launcher
+  * Import the .zip
 
 2. Using the github files
   -Download the repo using the "Code" button on the top right
