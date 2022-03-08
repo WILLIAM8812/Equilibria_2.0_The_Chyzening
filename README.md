@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com//WILLIAM8812/Equilibria_2.0_The_Chyzening">
-    <img src="https://ascitical-operands.000webhostapp.com/index_fichiers/logo.png" alt="Logo" width="500" height="120">
+    <img src="https://i.imgur.com/0d0chzn.png" alt="Logo" width="500" height="150">
   </a>
 
   <h3 align="center">Equilibria 2.0 : The Chyzening</h3>
