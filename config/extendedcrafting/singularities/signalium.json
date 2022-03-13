@@ -1,0 +1,10 @@
+{
+  "name": "Signalium",
+  "colors": [
+    "fc5432",
+    "fc5432"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/signalium"
+  }
+}

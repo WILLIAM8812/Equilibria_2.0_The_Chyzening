@@ -1,0 +1,10 @@
+{
+  "name": "Cheese",
+  "colors": [
+    "ffff00",
+    "ffff00"
+  ],
+  "ingredient": {
+    "tag": "forge:cheese"
+  }
+}
