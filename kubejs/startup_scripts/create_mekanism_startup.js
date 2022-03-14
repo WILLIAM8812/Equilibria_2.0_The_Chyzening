@@ -7,11 +7,11 @@ onEvent('item.registry', event => {
 		var formattedName = name.toLowerCase().replace(/ /g, '_').replace(/'/g, ''); 
 		event.create(formattedName).displayName(name); 
 	}
-
+    
 	addItem('Crushed Refined Glowstone')
 	addItem('Crushed Refined Obsidian')
 	addItem('Crushed Steel')
-
+    
 })
 
 onEvent('block.registry', event => {
