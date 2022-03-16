@@ -12,3 +12,12 @@ onEvent('block.registry', event => {
 	// Register new blocks here
 	// event.create('example_block').material('wood').hardness(1.0).displayName('Example Block')
 })
+
+onEvent('fluid.registry', event => {
+  // Basic "thick" (looks like lava) fluid with red tint
+  event.create('molten_cheese', fluid => {
+    fluid.textureThin(0xFFFF00)
+    fluid.bucketColor(0xFFFF00)
+    fluid.displayName('Molten Cheese')
+  })
+})
