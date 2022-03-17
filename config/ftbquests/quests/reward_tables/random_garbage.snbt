@@ -1,0 +1,103 @@
+{
+	id: "6FA23DAEB4E3D4B7"
+	order_index: 0
+	title: "random garbage"
+	loot_size: 1
+	rewards: [
+		{ item: "bellybutton:belly_button" }
+		{ item: "bellybutton:lint", count: 3 }
+		{ item: "vampirism:vampire_fang" }
+		{
+			item: {
+				id: "cyclic:evoker_fang"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:fire_scepter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:ice_scepter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:lightning_scepter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:teleport_wand"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:charm_void"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:charm_antidote"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:charm_fire"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "cyclic:charm_wither"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "simplyjetpacks:jetpack_potato"
+				Count: 1b
+				tag: {
+					Energy: 1200
+				}
+			}
+		}
+		{ item: "biomesoplenty:bop_icon" }
+		{ item: "alexsmobs:tab_icon" }
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kyronite",
+  "colors": [
+    "300125",
+    "300125"
+  ],
+  "ingredient": {
+    "item": "envirocore:kyronite_crystal"
+  },
+  "inUltimateSingularity": true
+}

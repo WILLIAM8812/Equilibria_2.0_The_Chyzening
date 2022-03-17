@@ -1,0 +1,11 @@
+{
+  "name": "Tinker's Bronze",
+  "colors": [
+    "ccab58",
+    "ccab58"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/silicon_bronze"
+  },
+  "inUltimateSingularity": true
+}

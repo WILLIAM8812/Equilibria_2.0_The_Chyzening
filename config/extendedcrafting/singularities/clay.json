@@ -1,0 +1,11 @@
+{
+  "name": "Clay",
+  "colors": [
+    "919191",
+    "919191"
+  ],
+  "ingredient": {
+    "tag": "forge:clay"
+  },
+  "inUltimateSingularity": true
+}

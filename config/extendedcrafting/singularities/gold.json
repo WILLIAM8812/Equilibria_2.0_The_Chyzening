@@ -1,0 +1,11 @@
+{
+  "name": "Gold",
+  "colors": [
+    "c7c000",
+    "c7c000"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/gold"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dark Power Gem",
+  "colors": [
+    "820101",
+    "820101"
+  ],
+  "ingredient": {
+    "tag": "evilcraft:gems/dark_power"
+  },
+  "inUltimateSingularity": true
+}

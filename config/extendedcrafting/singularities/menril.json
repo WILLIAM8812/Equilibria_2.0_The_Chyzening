@@ -1,0 +1,11 @@
+{
+  "name": "Menril",
+  "colors": [
+    "397c96",
+    "397c96"
+  ],
+  "ingredient": {
+    "item": "integrateddynamics:crystalized_menril_chunk"
+  },
+  "inUltimateSingularity": true
+}

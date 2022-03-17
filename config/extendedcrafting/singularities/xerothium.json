@@ -1,0 +1,11 @@
+{
+  "name": "Xerothium",
+  "colors": [
+    "70e2ff",
+    "70e2ff"
+  ],
+  "ingredient": {
+    "item": "envirocore:xerothium_crystal"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sulfur",
+  "colors": [
+    "787200",
+    "787200"
+  ],
+  "ingredient": {
+    "tag": "forge:dusts/sulfur"
+  },
+  "inUltimateSingularity": true
+}

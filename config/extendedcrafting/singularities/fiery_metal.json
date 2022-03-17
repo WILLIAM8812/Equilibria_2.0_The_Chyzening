@@ -1,0 +1,11 @@
+{
+  "name": "Fiery Metal",
+  "colors": [
+    "1f190d",
+    "faaf00"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/fiery"
+  },
+  "inUltimateSingularity": true
+}

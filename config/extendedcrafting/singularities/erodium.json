@@ -1,0 +1,11 @@
+{
+  "name": "Erodium",
+  "colors": [
+    "500166",
+    "500166"
+  ],
+  "ingredient": {
+    "item": "envirocore:erodium_crystal"
+  },
+  "inUltimateSingularity": true
+}

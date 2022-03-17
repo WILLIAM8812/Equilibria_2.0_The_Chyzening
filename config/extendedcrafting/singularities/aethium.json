@@ -1,0 +1,11 @@
+{
+  "name": "Aethium",
+  "colors": [
+    "171717",
+    "171717"
+  ],
+  "ingredient": {
+    "item": "envirocore:aethium_crystal"
+  },
+  "inUltimateSingularity": true
+}

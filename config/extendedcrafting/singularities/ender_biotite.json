@@ -1,0 +1,11 @@
+{
+  "name": "Ender Biotite",
+  "colors": [
+    "14031c",
+    "14031c"
+  ],
+  "ingredient": {
+    "tag": "forge:gems/biotite"
+  },
+  "inUltimateSingularity": true
+}

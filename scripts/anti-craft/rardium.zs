@@ -1,0 +1,1 @@
+craftingTable.removeByName("calemiutils:coins/coin_copper_from_raritanium");

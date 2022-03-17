@@ -1,0 +1,11 @@
+{
+  "name": "Litherite",
+  "colors": [
+    "023d0e",
+    "023d0e"
+  ],
+  "ingredient": {
+    "item": "envirocore:litherite_crystal"
+  },
+  "inUltimateSingularity": true
+}

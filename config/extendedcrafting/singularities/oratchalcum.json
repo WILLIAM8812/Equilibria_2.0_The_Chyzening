@@ -1,0 +1,11 @@
+{
+  "name": "Oratchalcum",
+  "colors": [
+    "c9bf71",
+    "c9bf71"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/oratchalcum"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Obsidian",
+  "colors": [
+    "160224",
+    "160224"
+  ],
+  "ingredient": {
+    "tag": "forge:obsidian"
+  },
+  "inUltimateSingularity": true
+}

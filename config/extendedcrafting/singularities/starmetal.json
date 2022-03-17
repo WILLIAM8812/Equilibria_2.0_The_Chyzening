@@ -1,0 +1,11 @@
+{
+  "name": "Starmetal",
+  "colors": [
+    "000966",
+    "000966"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/starmetal"
+  },
+  "inUltimateSingularity": true
+}

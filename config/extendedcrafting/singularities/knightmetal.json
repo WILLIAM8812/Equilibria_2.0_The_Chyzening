@@ -1,0 +1,11 @@
+{
+  "name": "Knightmetal",
+  "colors": [
+    "b0d4a5",
+    "b0d4a5"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/knightmetal"
+  },
+  "inUltimateSingularity": true
+}

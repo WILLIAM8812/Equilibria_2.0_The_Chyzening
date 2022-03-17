@@ -1,0 +1,11 @@
+{
+  "name": "Hepatizon",
+  "colors": [
+    "2e0e2e",
+    "2e0e2e"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/hepatizon"
+  },
+  "inUltimateSingularity": true
+}

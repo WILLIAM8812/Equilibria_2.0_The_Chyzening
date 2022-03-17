@@ -1,0 +1,11 @@
+{
+  "name": "Cobblestone",
+  "colors": [
+    "707070",
+    "707070"
+  ],
+  "ingredient": {
+    "tag": "forge:cobblestone"
+  },
+  "inUltimateSingularity": true
+}

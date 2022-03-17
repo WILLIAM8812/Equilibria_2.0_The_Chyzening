@@ -1,0 +1,11 @@
+{
+  "name": "Slimesteel",
+  "colors": [
+    "a3c7c4",
+    "29d9ca"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/slimesteel"
+  },
+  "inUltimateSingularity": true
+}

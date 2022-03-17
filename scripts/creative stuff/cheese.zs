@@ -1,0 +1,11 @@
+mods.extendedcrafting.TableCrafting.addShaped("6282a7b2-b9fd-4a98-9fc9-9a5ac5a1b3bf", <item:rats:creative_cheese>, [
+	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:rats:cheese>], 
+	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:rats:cheese>, <item:rats:cheese>], 
+	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>], 
+	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:rats:cheese>, <item:rats:cheese>, <item:extendedcrafting:singularity>.withTag({Id: "extendedcrafting:cheese" as string}), <item:rats:cheese>], 
+	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>], 
+	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>], 
+	[<item:minecraft:air>, <item:minecraft:air>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>], 
+	[<item:minecraft:air>, <item:rats:cheese>, <item:rats:cheese>, <item:extendedcrafting:singularity>.withTag({Id: "extendedcrafting:cheese" as string}), <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:extendedcrafting:ultimate_singularity>, <item:rats:cheese>], 
+	[<item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>, <item:rats:cheese>]
+]);

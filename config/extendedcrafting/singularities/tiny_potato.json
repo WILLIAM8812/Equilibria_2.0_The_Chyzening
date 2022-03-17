@@ -1,0 +1,11 @@
+{
+  "name": "Tiny Potato",
+  "colors": [
+    "edb08a",
+    "edb08a"
+  ],
+  "ingredient": {
+    "item": "botania:tiny_potato"
+  },
+  "inUltimateSingularity": true
+}

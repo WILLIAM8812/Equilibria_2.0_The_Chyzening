@@ -1,0 +1,11 @@
+{
+  "name": "Amethyst",
+  "colors": [
+    "730099",
+    "730099"
+  ],
+  "ingredient": {
+    "tag": "forge:gem/amethyst"
+  },
+  "inUltimateSingularity": true
+}

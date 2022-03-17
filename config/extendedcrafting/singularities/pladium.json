@@ -1,0 +1,11 @@
+{
+  "name": "Pladium",
+  "colors": [
+    "080336",
+    "080336"
+  ],
+  "ingredient": {
+    "item": "envirocore:pladium_crystal"
+  },
+  "inUltimateSingularity": true
+}

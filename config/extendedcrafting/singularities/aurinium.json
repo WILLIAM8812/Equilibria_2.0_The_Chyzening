@@ -1,0 +1,11 @@
+{
+  "name": "Aurinium",
+  "colors": [
+    "e388d5",
+    "e388d5"
+  ],
+  "ingredient": {
+    "item": "bettercompat:aurinium_ingot"
+  },
+  "inUltimateSingularity": true
+}

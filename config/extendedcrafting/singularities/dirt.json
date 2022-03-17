@@ -1,0 +1,11 @@
+{
+  "name": "Dirt",
+  "colors": [
+    "613b1a",
+    "613b1a"
+  ],
+  "ingredient": {
+    "tag": "forge:dirt"
+  },
+  "inUltimateSingularity": true
+}

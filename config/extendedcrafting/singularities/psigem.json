@@ -1,0 +1,11 @@
+{
+  "name": "Psigem",
+  "colors": [
+    "7a50d4",
+    "52a6fa"
+  ],
+  "ingredient": {
+    "tag": "forge:gems/psigem"
+  },
+  "inUltimateSingularity": true
+}

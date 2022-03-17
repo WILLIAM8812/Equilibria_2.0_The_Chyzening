@@ -1,0 +1,11 @@
+{
+  "name": "Blood Infused",
+  "colors": [
+    "6e0c0c",
+    "6e0c0c"
+  ],
+  "ingredient": {
+    "item": "vampirism:blood_infused_enhanced_iron_ingot"
+  },
+  "inUltimateSingularity": true
+}

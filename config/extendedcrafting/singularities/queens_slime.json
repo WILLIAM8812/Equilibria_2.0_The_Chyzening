@@ -1,0 +1,11 @@
+{
+  "name": "Queen's Slime",
+  "colors": [
+    "176102",
+    "ffae00"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/queens_slime"
+  },
+  "inUltimateSingularity": true
+}

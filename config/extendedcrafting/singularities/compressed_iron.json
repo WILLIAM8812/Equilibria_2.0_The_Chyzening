@@ -1,0 +1,11 @@
+{
+  "name": "Compressed Iron",
+  "colors": [
+    "666666",
+    "666666"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/compressed_iron"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Elementium",
+  "colors": [
+    "fc08a7",
+    "fc08a7"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/elementium"
+  },
+  "inUltimateSingularity": true
+}

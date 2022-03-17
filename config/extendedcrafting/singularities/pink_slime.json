@@ -1,0 +1,11 @@
+{
+  "name": "Pink Slime",
+  "colors": [
+    "ff57eb",
+    "ff57eb"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/pink_slime"
+  },
+  "inUltimateSingularity": true
+}

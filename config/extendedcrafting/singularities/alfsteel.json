@@ -1,0 +1,11 @@
+{
+  "name": "Alfsteel",
+  "colors": [
+    "eba400",
+    "eba400"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/alfsteel"
+  },
+  "inUltimateSingularity": true
+}

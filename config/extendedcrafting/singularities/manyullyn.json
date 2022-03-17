@@ -1,0 +1,11 @@
+{
+  "name": "Manyullyn",
+  "colors": [
+    "500078",
+    "500078"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/manyullyn"
+  },
+  "inUltimateSingularity": true
+}

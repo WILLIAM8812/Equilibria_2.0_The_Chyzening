@@ -1,0 +1,11 @@
+{
+  "name": "Arcane Gold",
+  "colors": [
+    "b88d02",
+    "b88d02"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/arcane_gold"
+  },
+  "inUltimateSingularity": true
+}

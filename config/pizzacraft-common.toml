@@ -1,0 +1,7 @@
+
+#Common config settings
+[common]
+	seedDrops = true
+	dropOliveFromJungleLeaves = false
+	generateOliveTree = true
+

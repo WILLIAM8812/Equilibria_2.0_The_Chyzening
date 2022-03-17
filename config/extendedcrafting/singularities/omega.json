@@ -1,0 +1,11 @@
+{
+  "name": "OMEGA",
+  "colors": [
+    "000000",
+    "FFFFFF"
+  ],
+  "ingredient": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "inUltimateSingularity": false
+}

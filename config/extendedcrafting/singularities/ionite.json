@@ -1,0 +1,11 @@
+{
+  "name": "Ionite",
+  "colors": [
+    "5586e0",
+    "5586e0"
+  ],
+  "ingredient": {
+    "item": "envirocore:ionite_crystal"
+  },
+  "inUltimateSingularity": true
+}

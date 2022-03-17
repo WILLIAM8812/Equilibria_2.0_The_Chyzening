@@ -1,0 +1,11 @@
+{
+  "name": "Carminite",
+  "colors": [
+    "e00000",
+    "e00000"
+  ],
+  "ingredient": {
+    "tag": "forge:gems/carminite"
+  },
+  "inUltimateSingularity": true
+}

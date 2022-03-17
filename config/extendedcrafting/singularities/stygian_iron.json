@@ -1,0 +1,11 @@
+{
+  "name": "Stygian Iron",
+  "colors": [
+    "7a2a25",
+    "69302c"
+  ],
+  "ingredient": {
+    "item": "woot:si_ingot"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Antimatter",
+  "colors": [
+    "c64dfa",
+    "c64dfa"
+  ],
+  "ingredient": {
+    "tag": "forge:pellets/antimatter"
+  },
+  "inUltimateSingularity": true
+}

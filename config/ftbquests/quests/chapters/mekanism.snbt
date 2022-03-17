@@ -1,0 +1,11 @@
+{
+	id: "541B35BC0AFD9DDE"
+	group: "407FF32E0128E716"
+	order_index: 0
+	filename: "mekanism"
+	title: "Mekanism"
+	icon: "mekanism:energized_smelter"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

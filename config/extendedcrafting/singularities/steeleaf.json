@@ -1,0 +1,11 @@
+{
+  "name": "Steeleaf",
+  "colors": [
+    "35851d",
+    "35851d"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/steeleaf"
+  },
+  "inUltimateSingularity": true
+}

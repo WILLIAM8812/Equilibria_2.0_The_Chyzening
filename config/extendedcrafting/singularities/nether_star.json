@@ -1,0 +1,11 @@
+{
+  "name": "Nether Star",
+  "colors": [
+    "e8f5ff",
+    "e8f5ff"
+  ],
+  "ingredient": {
+    "tag": "forge:nether_stars"
+  },
+  "inUltimateSingularity": true
+}

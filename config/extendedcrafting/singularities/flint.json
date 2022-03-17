@@ -1,0 +1,11 @@
+{
+  "name": "Flint",
+  "colors": [
+    "1f1f1f",
+    "1f1f1f"
+  ],
+  "ingredient": {
+    "item": "minecraft:flint"
+  },
+  "inUltimateSingularity": true
+}

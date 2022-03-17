@@ -1,0 +1,11 @@
+{
+  "name": "Pig Iron",
+  "colors": [
+    "fc72fa",
+    "fc72fa"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/pig_iron"
+  },
+  "inUltimateSingularity": true
+}
