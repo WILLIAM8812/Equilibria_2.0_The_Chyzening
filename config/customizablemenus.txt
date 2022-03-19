@@ -1,0 +1,8 @@
+type = customizablemenus
+
+shadows.menu.ExtendedMenuScreen {
+}
+
+net.minecraft.client.gui.screen.MainMenuScreen {
+}
+

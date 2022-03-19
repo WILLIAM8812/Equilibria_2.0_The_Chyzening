@@ -1,0 +1,10 @@
+{
+  "name": "Manasteel",
+  "colors": [
+    "3f6ecc",
+    "0c57ed"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/manasteel"
+  }
+}

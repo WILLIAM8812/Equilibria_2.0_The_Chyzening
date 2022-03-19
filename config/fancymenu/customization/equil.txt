@@ -1,0 +1,255 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = panorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -34
+}
+
+customization {
+  identifier = %id=400322%
+  width = 175
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\buttons\multiplayer\multiplayer2.png
+  backgroundnormal = config\fancymenu\buttons\multiplayer\multiplayer1.png
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-left
+  x = 130
+  action = movebutton
+  y = 93
+}
+
+customization {
+  identifier = %id=604382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=604382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\buttons\accessibility\accessibility2.png
+  backgroundnormal = config\fancymenu\buttons\accessibility\accessibility1.png
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-left
+  x = 198
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -8
+}
+
+customization {
+  identifier = %id=400382%
+  width = 175
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\buttons\options\options2.png
+  backgroundnormal = config\fancymenu\buttons\options\options1.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 67
+}
+
+customization {
+  identifier = %id=502382%
+  width = 175
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = Quit
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\buttons\quit\quit2.png
+  backgroundnormal = config\fancymenu\buttons\quit\quit1.png
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-left
+  x = 100
+  action = movebutton
+  y = 93
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=376382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\buttons\language\language2.png
+  backgroundnormal = config\fancymenu\buttons\language\language1.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -62
+}
+
+customization {
+  identifier = %id=400298%
+  width = 175
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\buttons\singleplayer\singleplayer2.png
+  backgroundnormal = config\fancymenu\buttons\singleplayer\singleplayer1.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=400346%
+  width = 175
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\buttons\mods\mods2.png
+  backgroundnormal = config\fancymenu\buttons\mods\mods1.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  path = config/fancymenu/buttons/empty.png
+  orientation = mid-left
+  x = 0
+  width = 175
+  action = addtexture
+  actionid = 303f2c30-070b-4250-b47d-c10fb05c3f571620233576664
+  y = 93
+  height = 20
+}
+
+customization {
+  path = config/fancymenu/equil2.png
+  orientation = top-centered
+  x = -160
+  width = 320
+  action = addtexture
+  actionid = 6162a33c-612c-46a6-9892-abdb935a65bb1644170940957
+  y = -1
+  height = 125
+}
+
+customization {
+  path = config/fancymenu/chyzening.png
+  orientation = element
+  orientation_element = 6162a33c-612c-46a6-9892-abdb935a65bb1644170940957
+  x = 39
+  width = 200
+  action = addtexture
+  actionid = 849578e3-0fff-4c9c-b629-bf825114f2521644170759537
+  y = 82
+  height = 59
+}
+
