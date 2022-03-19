@@ -1,0 +1,16 @@
+#0E1 traverse:arid_highlands
+#4F9 minecraft:dark_forest
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#619 traverse:desert_shrubland
+#010 minecraft:forest
+#675 environmental:marsh
+#3CE environmental:mushroom_marsh
+#3DC minecraft:plains
+#5FF minecraft:river
+#0C3 atmospheric:rocky_dunes
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
+#174 minecraft:shattered_savanna
+#774 minecraft:sunflower_plains
+#4D3 minecraft:swamp
