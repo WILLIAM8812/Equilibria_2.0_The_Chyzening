@@ -7,7 +7,7 @@
   <h3 align="center">Equilibria 2.0 : The Chyzening</h3>
 
   <p align="center">
-    WARNING : UNSTABLE BRANCH USE AT YOUR OWN RISK
+    Stable branch
     <br/>
     <br/>
     <a href="https://github.com//WILLIAM8812/Equilibria_2.0_The_Chyzening/issues">Report Bug</a>
